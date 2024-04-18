@@ -11,26 +11,32 @@
     "env": {
         "BOT_TOKEN": {
             "description": "Get this value from @BotFather",
+            "value": "6784269286:AAGyWYQIY8G3lVJcdXFN0SR0_oa2X7N6YyI",
             "required": true
         },  
         "MUST_JOIN": {
             "description": "Username of a group or channel for which you want to set force sub.(without @)",
+            "value": "MAMBA_UPDATES",
             "required": true      
         }, 
         "MONGO_URL": {
             "description": "mongo db url here",
+            "value": "mongodb+srv://Black:Mamba@black.pvthko3.mongodb.net/?retryWrites=true&w=majority",
             "required": true
         },
         "API_ID": {
             "description": "telegram api id here",
+            "value": "22245596",
             "required": true
         },
         "OWNER_ID": {
             "description": "Telegram id of the person who will known as owner of the bot.",
+            "value": "6713994904",
             "required": true
         }, 
         "API_HASH": {
             "description": "telegram api hash here",
+            "value": "d6a94c9059aac82d48e516cde7205b27",
             "required": true
         }
     },
