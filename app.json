@@ -31,7 +31,7 @@
         },
         "OWNER_ID": {
             "description": "Telegram id of the person who will known as owner of the bot.",
-            "value": "6713994904",
+            "value": "6506507810",
             "required": true
         }, 
         "API_HASH": {
